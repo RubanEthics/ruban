@@ -81,7 +81,4 @@ if __name__ == "__main__":
     test = WebTest()
     test.login()
     test.add_trailer()
-    test.close()
-
-#rock ruban
-
+    test.clmail.com
