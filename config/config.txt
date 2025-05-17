@@ -1,0 +1,3 @@
+URL= http://node-admin.webnexs.org/login
+USERNAME=admin@admin.com
+PASSWORD=Webnexs123!@#
